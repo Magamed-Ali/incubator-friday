@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Magamed-Ali/incubator-friday/static/css/main.073c9b0a.css",
+    "main.js": "/Magamed-Ali/incubator-friday/static/js/main.2114c3ee.js",
+    "static/js/787.7b5c628f.chunk.js": "/Magamed-Ali/incubator-friday/static/js/787.7b5c628f.chunk.js",
+    "static/media/logo.svg": "/Magamed-Ali/incubator-friday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Magamed-Ali/incubator-friday/index.html",
+    "main.073c9b0a.css.map": "/Magamed-Ali/incubator-friday/static/css/main.073c9b0a.css.map",
+    "main.2114c3ee.js.map": "/Magamed-Ali/incubator-friday/static/js/main.2114c3ee.js.map",
+    "787.7b5c628f.chunk.js.map": "/Magamed-Ali/incubator-friday/static/js/787.7b5c628f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2114c3ee.js"
+  ]
+}
