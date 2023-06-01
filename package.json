@@ -2,7 +2,7 @@
   "name": "incubator-friday",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Magamed-Ali/incubator-friday",
+  "homepage": "https://magamed-ali.github.io/incubator-friday/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
